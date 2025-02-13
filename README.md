@@ -1,4 +1,4 @@
-# Akash Nimbolkar
+# Sneha Sakhare
 # 💫 About Me:
 <br>👋 Hi, I'm Sneha Sakhare, a Computer Engineering student passionate about HTML, CSS, JS and problem-solving. <br>       I love building impactful projects, like a Smart Parking System and a Ticket Troove.  <br><br>🚀 2⭐ CodeChef | Web Developer<br><br>💡 Skilled in C, C++, Java, Python, SQL, Django. Always learning, coding, and innovating!  <br><br>
 ## 🌐 Socials:
